@@ -109,8 +109,8 @@
     "name": "mammoth-coder-13b",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
     "urls": [
-      "https://huggingface.co/TheBloke/MAmmoTH-Coder-13B-GGUF/resolve/main/mammoth-coder-13b.Q8_0.gguf"
+      "https://huggingface.co/TheBloke/MAmmoTH-Coder-13B-GGUF/resolve/main/mammoth-coder-13b.Q4_0.gguf"
     ],
-    "sha256": "cbcbdd763addf5b702d0f1d11b76e81f46a648c900f2fd050192079f7156669e"
+    "sha256": "bba8671b2fe42c14abe3f339f318b117437e03cc88c43a74c95099cf7d82f311"
   }
 ]
