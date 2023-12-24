@@ -117,8 +117,8 @@
     "name": "magicoder-s-ds-6.7b",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
     "urls": [
-      "https://huggingface.co/TheBloke/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.Q4_0.gguf"
+      "https://huggingface.co/TheBloke/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.Q8_0.gguf"
     ],
-    "sha256": "dff24bb9061c24649fa77d9bfb475a5ebb1ed7102d4518450fc090e4c5c327f0"
+    "sha256": "45e6b4c4ab2a44541c5f328c13232c9ab2ec4008ffc9a563e73ceca875240868"
   }
 ]
